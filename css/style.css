@@ -6,3 +6,7 @@
 }
 
 
+.container-sm .jumbotron .row{
+    background-color: rgb(26 188 156);
+    height: 300px;
+}
