@@ -47,11 +47,23 @@
     border-radius: 20em;
 }
 
+.color_form{
+    color: rgb(108 117 125);
+}
 
+.button_color{
+    background-color: #1abc9c;
+}
 
 
 .ms_footer-top {
     background-color: #3a546d;
+}
+
+.social{
+    width: 20px;
+    height: 30px;
+    
 }
 
 .ms_footer-bottom {
