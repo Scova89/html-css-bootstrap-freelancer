@@ -11,6 +11,18 @@
     background-color: #1abc9c;
 }
 
+#image-avatar{
+    margin-bottom: 20px;
+    width: 250px;
+    object-fit: cover;
+}
+
+#image{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
 .ms_footer-top {
     background-color: #3a546d;
 }
@@ -24,11 +36,11 @@
 
 /* debug */
 
-.debug .box {
+/* .debug .box {
     height: 90px;
     background-color: lightgreen;
     border: 1px solid black;
-}
+} */
 
 .debug #jumbotron {
     height: 500px;
